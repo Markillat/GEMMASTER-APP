@@ -30,4 +30,4 @@
 > Elige las celdas y relaciona con el formato seleccionado:
 
 
-![Alt Text](https://i.postimg.cc/HnmKDCys/Captura-desde-2022-10-22-00-09-39.png)
+![Alt Text](https://github.com/Markillat/Imagenes/blob/main/Captura%20desde%202022-10-22%2000-09-39.png?raw=true)
