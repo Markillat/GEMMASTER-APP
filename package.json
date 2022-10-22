@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jose Luis Marcelo - Markillat",
   "license": "ISC",
   "dependencies": {
     "@octokit/auth-basic": "^1.4.8",
