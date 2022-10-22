@@ -1,5 +1,5 @@
 node_modules/
-*.json
+/db/*.json
 Documentos/*
 package-lock.json
 /.idea
