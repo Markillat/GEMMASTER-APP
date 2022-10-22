@@ -30,4 +30,4 @@
 > Elige las celdas y relaciona con el formato seleccionado:
 
 
-![Alt Text](https://raw.githubusercontent.com/eduardoboucas/inquirer-table-prompt/master/screen-capture.gif)
+![Alt Text](https://i.postimg.cc/HnmKDCys/Captura-desde-2022-10-22-00-09-39.png)
