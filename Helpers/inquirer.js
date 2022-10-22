@@ -133,7 +133,6 @@ export const selectOption = async (files, message = '') => {
             choices
         }
     ]
-
     const {id} = await inquirer.prompt(question);
     return id[0];
 }
