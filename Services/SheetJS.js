@@ -105,10 +105,12 @@ export const buildingSheetDuplicated = async (payload = [], columns = [], itemsS
 }
 
 export const output = async (newData) => {
+    const datetime = new Date().getTime()
+    const name = `${ 'Nuevo-' + datetime }.xlsx`;
     const newWB = xlxs.utils.book_new();
     const newWS = xlxs.utils.json_to_sheet(newData);
     xlxs.utils.book_append_sheet(newWB, newWS, "New Data");
-    xlxs.writeFile(newWB, `${nameFile ?? 'nuevo'}.xlsx`);
+    xlxs.writeFile(newWB, "./Documentos/" + name);
     loading(() => console.log('\nLa exportación ha sido finalizada!'));
 }
 
