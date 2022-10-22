@@ -31,4 +31,3 @@
 
 
 ![Alt Text](https://raw.githubusercontent.com/eduardoboucas/inquirer-table-prompt/master/screen-capture.gif)
-
