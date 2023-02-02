@@ -1,5 +1,10 @@
 <h1>Menu Excel GEMMASTER</h1>
 
+> Iniciar comando
+```
+node app.js
+```
+
 > FORMATO ESPERADO EXCEL COLUMNAS:
 
  ````
